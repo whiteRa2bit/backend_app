@@ -1,0 +1,3 @@
+DATABASE_HOST = 'mongodb'
+DATABASE_PORT = 27017
+DATABASE_NAME = 'mafia'
